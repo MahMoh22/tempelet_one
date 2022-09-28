@@ -1,2 +1,2 @@
-# tempelet_one
-html &amp; css tempelet_one
+# template_one
+html &amp; css template_one
